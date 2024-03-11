@@ -1,0 +1,9 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Landing page for Nators",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Linards",
+  "license": "ISC"
+}
